@@ -1,0 +1,56 @@
+
+Front: What was the first President of the United States?
+Back: George Washington
+Front: undefined
+Back: undefined
+Front: What was the first President of the United States?
+Back: George Washington
+Front: What was the first President of the United States?
+Back: George Washington
+
+
+Front: What was the first President of the United States?
+Back: George Washington
+
+
+Front: What was the first President of the United States?
+Back: George Washington
+
+Front: 1What was the first President of the United States?
+Back: George Washington
+
+Front: Who was the first president of the US?
+Back: George Washington
+
+Full Text: The first emperor of Rome was Julius Caesar
+Cloze: Julius Caesar
+Partial Text: The first emperor of Rome was ... ...
+
+Full Text: The first emperor of Rome was Julius Caesar.
+Cloze: Julius Caesar
+Partial Text: The first emperor of Rome was ... ....
+
+Front: Who was the first president of the US?
+Back: George Washington
+
+Front: Who was the first president of the US?
+Back: George Washington
+
+Front: Who was the first president of the US?
+Back: George Washington
+
+Front: Who was the first president of the US?
+Back: George Washington
+
+Front: undefined
+Back: undefined
+
+Front: undefined
+Back: undefined
+
+Front: Who was the first Roman Emperor?
+Back: Julius Caesar
+
+Full Text: Julius Caesar was the first Roman Emperor
+Cloze: Julius Caesar
+Partial Text: .... was the first Roman Emperor
