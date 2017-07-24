@@ -29,6 +29,7 @@ inquirer.prompt([
 		.then(function(cardResponse){
 			var newBasicCard = new BasicCard(cardResponse.question, cardResponse.answer);
 			newBasicCard.create();
+			console.log("New basic card added.")
 		})
 	}
 	else {
@@ -46,6 +47,7 @@ inquirer.prompt([
 		.then(function(cardResponse){
 			var newClozeCard = new ClozeCard(cardResponse.fact, cardResponse.clozePart);
 			newClozeCard.create();
+			console.log("New cloze card created.")
 		});
 	}
 });	

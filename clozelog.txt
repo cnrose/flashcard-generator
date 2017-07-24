@@ -1,0 +1,5 @@
+
+Type: Cloze
+Full Text: George Washington was the first president of the United States.
+Cloze: George Washington
+Partial Text: .... was the first president of the United States.
